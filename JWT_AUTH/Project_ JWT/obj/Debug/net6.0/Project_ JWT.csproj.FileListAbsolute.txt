@@ -1,0 +1,39 @@
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\appsettings.json
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Project_ JWT.exe
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Project_ JWT.deps.json
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Project_ JWT.runtimeconfig.json
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Project_ JWT.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Project_ JWT.pdb
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\Project_ JWT.csproj.AssemblyReference.cache
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\Project_ JWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\Project_ JWT.AssemblyInfoInputs.cache
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\Project_ JWT.AssemblyInfo.cs
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\Project_ JWT.csproj.CoreCompileInputs.cache
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\Project_ JWT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\Project_ JWT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\staticwebassets\msbuild.Project_ JWT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\staticwebassets\msbuild.build.Project_ JWT.props
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project_ JWT.props
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project_ JWT.props
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\scopedcss\bundle\Project_ JWT.styles.css
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\Project_ JWT.csproj.CopyComplete
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\Project_ JWT.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\refint\Project_ JWT.dll
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\Project_ JWT.pdb
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\Project_ JWT.genruntimeconfig.cache
+C:\Users\saruk\Desktop\codeology\trannie project\JWT Implementation\JWT_AUTH\Project_ JWT\obj\Debug\net6.0\ref\Project_ JWT.dll
